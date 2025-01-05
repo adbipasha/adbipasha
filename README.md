@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adbipasha
+- 👋 Hi, I’m @bipashakandel
 - 👀 I’m interested in coding and programming.
 - 🌱 I’m currently learning c language and html java
 - 💞️ I’m looking to collaborate on ...
